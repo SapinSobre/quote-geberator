@@ -15,3 +15,16 @@ body{
     align-items: center;
     justify-content: center;
 }
+
+.quote-container {
+    width: auto;
+    max-width: 900px;
+    padding: 20px 30px;
+    background: rgba(255, 255, 255, 0.4);
+    box-shadow: 0, 10, 10, 10, rgba(0,0,0,0.4);
+    border-radius: 10px;
+}
+
+.quote-text{
+
+}
