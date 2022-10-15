@@ -26,5 +26,18 @@ body{
 }
 
 .quote-text{
+    font-size: 2.75rem;
+    font-weight: 400;
+}
 
+.fa-quote-left{
+    font-size: 4rem;
+}
+
+.quote-author{
+    margin-top: 15px;
+}
+
+#author{
+    font-style: italic;
 }
